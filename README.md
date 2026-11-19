@@ -31,6 +31,6 @@ Business Questions Answered
 - What statistical patterns existed within sales and profit distributions?
   
 Workbook Download
-Due to GitHub file size limitations, the workbook is available via Google Drive.
+Due to GitHub file size limitations, the workbook is available via Google Drive link below.
 
 [(Retail Sales Analytic Dashboard)](https://docs.google.com/spreadsheets/d/1QwPM7herNbQr7Us-L7NX8AY8ImCdwnE3/edit?usp=sharing&ouid=115304207914155332404&rtpof=true&sd=true)
